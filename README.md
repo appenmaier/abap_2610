@@ -1,12 +1,12 @@
 # Coding Basics (05.10 - 09.10)
 
 - Einführung
-  - Die Programmiersprache ABAP
+  - [Die Programmiersprache ABAP](skript/abap.md)
 - Grundlegende Sprachelemente
-  - Datentypen und Datenobjekte
-  - Mathematische Operatoren, Mathematische Funktionen, Zeichenketten und Zeichenketten-Templates
-  - Verzweigungen, Fallunterscheidungen und Schleifen
-  - Klassenmethoden
+  - [Datentypen und Datenobjekte](skript/datatypes-and-dataobjects.md)
+  - [Mathematische Operatoren, Mathematische Funktionen, Zeichenketten und Zeichenketten-Templates](skript/calculations.md)
+  - [Verzweigungen, Fallunterscheidungen und Schleifen](skript/cases-and-loops.md)
+  - [Klassenmethoden](skript/static-methods.md)
   - Strukturen und interne Tabellen
   - ABAP SQL
 - Objektorientierung

@@ -7,5 +7,5 @@
 **Links**
 
 - [Doku: Objekte und Referenzvariablen](https://appenmaier.github.io/s4hana/documentation/abap-objects/objects-and-references)
-- [Übungsaufgabe: ABAP-Objects-02](https://appenmaier.github.io/s4hana/exercises/abap-objects/abap-objects-02) ([Startklasse](../src/zcl_11_main_airplanes.clas.abap))
+- [Übungsaufgabe: ABAP-Objects-02](https://appenmaier.github.io/s4hana/exercises/abap-objects/abap-objects-02) ([Musterlösung](../src/zcl_11_main_airplanes.clas.abap))
 - [Startklasse](../src/zcl_11_main_vehicles.clas.abap)

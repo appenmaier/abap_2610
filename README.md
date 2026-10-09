@@ -7,7 +7,7 @@
   - [Mathematische Operatoren, Mathematische Funktionen, Zeichenketten und Zeichenketten-Templates](skript/calculations.md)
   - [Verzweigungen, Fallunterscheidungen und Schleifen](skript/cases-and-loops.md)
   - [Klassenmethoden](skript/static-methods.md)
-  - Strukturen und interne Tabellen
+  - [Strukturen und interne Tabellen](skript/structures-and-internal-tables.md)
   - ABAP SQL
 - Objektorientierung
   - Klassen, Attribute und Methoden

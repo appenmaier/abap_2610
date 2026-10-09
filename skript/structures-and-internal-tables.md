@@ -17,5 +17,5 @@
 - [Übungsaufgabe: ABAP-06](https://appenmaier.github.io/s4hana/exercises/abap/abap-06) ([Musterlösung](../src/zcl_11_abap_06.clas.abap))
 - [Übungsaufgabe: ABAP-07](https://appenmaier.github.io/s4hana/exercises/abap/abap-07) ([Musterlösung](../src/zcl_11_abap_07.clas.abap))
 - [Übungsaufgabe: ABAP-08](https://appenmaier.github.io/s4hana/exercises/abap/abap-08)
-- [Demo 5: Strukturen](../src/zcl_11_demo_05.abap)
-- [Demo 6: Interne Tabellen](../src/zcl_11_demo_06.abap)
+- [Demo 5: Strukturen](../src/zcl_11_demo_05.clas.abap)
+- [Demo 6: Interne Tabellen](../src/zcl_11_demo_06.clas.abap)

@@ -56,5 +56,29 @@ CLASS zcl_11_demo_07 IMPLEMENTATION.
       out->write( |No Data Found| ).
     ENDIF.
     out->write( connections2 ).
+
+    " CUD Operations
+    connection-client = sy-mandt.
+    connection-connection_id = '0666'.
+    connection-airport_from_id = 'BER'.
+    connection-airport_to_id = 'LAX'.
+    connection-distance = 9000.
+
+    INSERT /dmo/connection FROM @connection.
+    IF sy-subrc <> 0.
+      out->write( |Duplicate Data Found| ).
+    ENDIF.
+
+    connection-distance = 9267.
+    UPDATE /dmo/connection FROM @connection.
+    IF sy-subrc <> 0.
+      out->write( |No Data Found| ).
+    ENDIF.
+
+    DELETE /dmo/connection FROM @connection.
+    IF sy-subrc <> 0.
+      out->write( |No Data Found| ).
+    ENDIF.
+
   ENDMETHOD.
 ENDCLASS.

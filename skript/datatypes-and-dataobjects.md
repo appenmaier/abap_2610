@@ -13,4 +13,4 @@
 - [Übungsaufgabe: ABAP-01](https://appenmaier.github.io/s4hana/exercises/abap/abap-01) ([Musterlösung](../src/zcl_11_abap_01.clas.abap))
 - [Übungsaufgabe: ABAP-02](https://appenmaier.github.io/s4hana/exercises/abap/abap-02) ([Musterlösung](../src/zcl_11_abap_02.clas.abap))
 - [Demo 0: Hello World](../src/zcl_11_hello_world.clas.abap)
-- [Demo 1: Datatypes and Dataobjects](../src/zcl_11_demo_01.clas.abap)
+- [Demo 1: Datentypen und Datenobjekte](../src/zcl_11_demo_01.clas.abap)

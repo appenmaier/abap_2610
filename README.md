@@ -11,6 +11,6 @@
   - [ABAP SQL](skript/abap-sql.md)
 - Objektorientierung
   - [Klassen, Attribute und Methoden](skript/classes.md)
-  - [Objekte und Referenzveraiblen](skript.objects.md)
+  - [Objekte und Referenzveraiblen](skript/objects.md)
   - [Klassenbasierte Ausnahmen](skript/exceptions.md)
   - Vererbung und Schnittstellen

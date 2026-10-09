@@ -9,4 +9,4 @@
 
 - [Doku: Datenbankzugriffe mit ABAP SQL](https://appenmaier.github.io/s4hana/documentation/abap/abap-sql)
 - [Übungsaufgabe: ABAP-09](https://appenmaier.github.io/s4hana/exercises/abap/abap-09) ([Musterlösung](../src/zcl_11_helper.clas.abap))
-- [Demo 7: ABAP SQL](../src/zcl_11_demo_07.abap)
+- [Demo 7: ABAP SQL](../src/zcl_11_demo_07.clas.abap)

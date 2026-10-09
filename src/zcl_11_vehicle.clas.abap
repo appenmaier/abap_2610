@@ -1,5 +1,5 @@
 CLASS zcl_11_vehicle DEFINITION
-  PUBLIC FINAL
+  PUBLIC ABSTRACT
   CREATE PUBLIC.
 
   PUBLIC SECTION.
@@ -7,21 +7,26 @@ CLASS zcl_11_vehicle DEFINITION
       IMPORTING make  TYPE string
                 model TYPE string.
 
-    METHODS accelerate IMPORTING value_in_kmh TYPE i.
+    METHODS accelerate FINAL IMPORTING value_in_kmh TYPE i.
 
-    METHODS brake IMPORTING value_in_kmh TYPE i
+    METHODS brake FINAL IMPORTING value_in_kmh TYPE i
                   RAISING   zcx_11_invalid_value.
 
     METHODS get_make         RETURNING VALUE(make)         TYPE string.
     METHODS get_model        RETURNING VALUE(model)        TYPE string.
     METHODS get_speed_in_kmh RETURNING VALUE(speed_in_kmh) TYPE i.
 
+    METHODS to_string        ABSTRACT
+      RETURNING VALUE(string) TYPE string.
+
     CLASS-METHODS get_number_of_vehicles RETURNING VALUE(result) TYPE i.
 
-  PRIVATE SECTION.
-    DATA make         TYPE string.
-    DATA model        TYPE string.
+  PROTECTED SECTION.
     DATA speed_in_kmh TYPE i.
+
+  PRIVATE SECTION.
+    DATA make  TYPE string.
+    DATA model TYPE string.
 
     CLASS-DATA number_of_vehicles TYPE i.
 ENDCLASS.

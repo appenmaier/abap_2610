@@ -12,7 +12,13 @@
      <SPRSL>E</SPRSL>
      <ARBGB>Z11</ARBGB>
      <MSGNR>001</MSGNR>
-     <TEXT>Oops! &apos;&amp;1&apos; isn&apos;t a valid number for speed in km/h.</TEXT>
+     <TEXT>Oops! &amp;1 isn&apos;t a valid number for speed in km/h. Enter a valid value.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>Z11</ARBGB>
+     <MSGNR>002</MSGNR>
+     <TEXT>Bad input for parameter &amp;1</TEXT>
     </T100>
    </T100>
   </asx:values>

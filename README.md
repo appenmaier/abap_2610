@@ -8,7 +8,7 @@
   - [Verzweigungen, Fallunterscheidungen und Schleifen](skript/cases-and-loops.md)
   - [Klassenmethoden](skript/static-methods.md)
   - [Strukturen und interne Tabellen](skript/structures-and-internal-tables.md)
-  - ABAP SQL
+  - [ABAP SQL](skript/abap-sql.md)
 - Objektorientierung
   - Klassen, Attribute und Methoden
   - Objekte und Referenzen

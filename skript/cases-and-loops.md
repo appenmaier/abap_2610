@@ -9,5 +9,5 @@
 - [Doku: Verzweigungen und Fallunterscheidungen](https://appenmaier.github.io/s4hana/documentation/abap/cases)
 - [Doku: Schleifen](https://appenmaier.github.io/s4hana/documentation/abap/loops)
 - [Übungsaufgabe: ABAP-03](https://appenmaier.github.io/s4hana/exercises/abap/abap-03) ([Musterlösung](../src/zcl_11_abap_03.clas.abap))
-- [Demo: Verzweigungen und Schleifen](../src/zcl_11_demo_03.clas.abap)
-- [Demo: Schleifen](../src/zcl_11_demo_04.clas.abap)
+- [Demo 3: Verzweigungen und Schleifen](../src/zcl_11_demo_03.clas.abap)
+- [Demo 4: Schleifen](../src/zcl_11_demo_04.clas.abap)

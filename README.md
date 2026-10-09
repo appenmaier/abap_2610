@@ -10,8 +10,8 @@
   - [Strukturen und interne Tabellen](skript/structures-and-internal-tables.md)
   - [ABAP SQL](skript/abap-sql.md)
 - Objektorientierung
-  - Klassen, Attribute und Methoden
-  - Objekte und Referenzen
-  - Ausnahmen
+  - [Klassen, Attribute und Methoden](skript/classes.md)
+  - [Objekte und Referenzen](skript.objects.md)
+  - [Ausnahmen](skript/exceptions.md)
   - Vererbung und Polymorphie
   - Interfaces 

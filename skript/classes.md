@@ -9,7 +9,7 @@
 **Links**
 
 - [Doku: Klassen, Attribute und Methoden](https://appenmaier.github.io/s4hana/documentation/abap-objects/classes-attributes-and-methods)
-- [Übungsaufgabe: ABAP-Objects-01](https://appenmaier.github.io/s4hana/exercises/abap-objects/abap-objects-01) ([Startklasse](../src/zcl_11_main_airplanes.clas.abap))
-- [Übungsaufgabe: ABAP-Objects-03](https://appenmaier.github.io/s4hana/exercises/abap-objects/abap-objects-03) ([Startklasse](../src/zcl_11_main_airplanes.clas.abap))
-- [Übungsaufgabe: ABAP-Objects-04](https://appenmaier.github.io/s4hana/exercises/abap-objects/abap-objects-04) ([Startklasse](../src/zcl_11_main_airplanes.clas.abap))
+- [Übungsaufgabe: ABAP-Objects-01](https://appenmaier.github.io/s4hana/exercises/abap-objects/abap-objects-01) ([Musterlösung](../src/zcl_11_main_airplanes.clas.abap))
+- [Übungsaufgabe: ABAP-Objects-03](https://appenmaier.github.io/s4hana/exercises/abap-objects/abap-objects-03) ([Musterlösung](../src/zcl_11_main_airplanes.clas.abap))
+- [Übungsaufgabe: ABAP-Objects-04](https://appenmaier.github.io/s4hana/exercises/abap-objects/abap-objects-04) ([Musterlösung](../src/zcl_11_main_airplanes.clas.abap))
 - [Startklasse](../src/zcl_11_main_vehicles.clas.abap)
